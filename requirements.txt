@@ -1,0 +1,9 @@
+datasets[audio]
+transformers
+accelerate
+evaluate
+jiwer
+soundfile
+torch
+torchcodec
+ipykernel
